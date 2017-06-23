@@ -1,6 +1,6 @@
 # Deep Learning
 
-Este es un ejemplo de reconocimiento de digitos usando [MNIST](http://yann.lecun.com/exdb/mnist/)
+Este es un ejemplo de reconocimiento de digitos usando [MNIST](http://yann.lecun.com/exdb/mnist/) y Tensorflow. 
 
 ![](images/mnista.png)
 
